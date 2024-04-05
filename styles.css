@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font: inherit;
 }
+body {
+    height: 100vh;
+}
+
 /* Header Section */
 .header {
     display: flex;
@@ -13,6 +17,15 @@
 .logo {
 max-width: 50px;
 max-height: 50px;
+}
+.title {
+    color: #F9FAF8;   
+    font-size: 24px;
+}
+.top-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
 }
 ul {
     display: flex;
@@ -32,17 +45,19 @@ a {
     justify-content: space-around;
     align-items: center;
     background-color: #1F2937;
-    padding: 50px;
+    padding: 60px;
     gap: 15px;
 }
 
-/* .left-side { 
-    gap: 10px 20px;
-}*/
+.left-side { 
+    /* gap: 10px 20px; */
+}
 
 .hero-image {
     max-width: 200px;
     max-height: 200px;
+    /* display: flex;
+    flex-basis: 200px; */
 }
 
 .large-text {
