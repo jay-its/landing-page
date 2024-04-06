@@ -17,6 +17,7 @@ body {
 .logo {
 max-width: 50px;
 max-height: 50px;
+padding-left: 16px;
 }
 .title {
     color: #F9FAF8;   
@@ -32,6 +33,7 @@ ul {
     gap: 16px;
     list-style-type: none;
     align-items: center;
+    padding-right: 10px;
 }
 a {
     text-decoration: none;
@@ -82,3 +84,5 @@ margin-bottom: 10px;
     border: none;
     max-width: fit-content;
 }
+
+/* Info Section */
