@@ -86,3 +86,23 @@ margin-bottom: 10px;
 }
 
 /* Info Section */
+
+.info-container {
+    /* display: flex; */
+}
+
+.box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    gap: 20px;
+}
+
+.box {
+    /* display: flex; */
+    border: solid 2px #3882f6;
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+}
