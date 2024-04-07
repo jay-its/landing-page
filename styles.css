@@ -50,6 +50,7 @@ a {
     background-color: #1F2937;
     padding: 60px;
     gap: 15px;
+    max-height: 33%;
 }
 
 .left-side { 
@@ -90,6 +91,7 @@ margin-bottom: 10px;
 
 .info-container {
    padding: 25px;
+   max-height: fit-content;
 }
 
 .heading-two {
@@ -131,4 +133,19 @@ margin-bottom: 10px;
     flex-wrap: wrap;
     max-width: 100px;
     align-items: flex-start;
+}
+
+/* Quote Section */
+
+.quote-container {
+    display: flex;
+    background-color: #E5E7EB;
+    max-height: 33%;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
 }
