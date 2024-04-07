@@ -163,3 +163,39 @@ margin-bottom: 10px;
     font-weight: 600;
     margin-top: 10px;
 }
+
+/* Call to Action Section */
+
+.call-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 60px;
+}
+
+.cta-container {
+    border-radius: 2px;
+    background-color: #3882f6;
+   
+}
+
+.cta-heading {
+font-weight: bold;
+font-size: medium;
+color: #E5E7EB;
+}
+
+.cta-text {
+    color: #F9FAF8;
+    font-weight: 100;
+}
+
+.cta-left-side {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cta-right-side {
+
+}
