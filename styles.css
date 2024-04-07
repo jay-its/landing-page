@@ -157,6 +157,8 @@ margin-bottom: 10px;
 }
 
 .source {
+    display: flex;
+    flex-shrink: 0;
     margin-left: 29em;
     font-weight: 600;
     margin-top: 10px;
