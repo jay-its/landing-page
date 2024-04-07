@@ -139,8 +139,10 @@ margin-bottom: 10px;
 
 .quote-container {
     display: flex;
+    justify-content: center;
     background-color: #E5E7EB;
     max-height: 33%;
+    padding: 100px;
 }
 
 .quote {
