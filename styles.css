@@ -144,6 +144,7 @@ margin-bottom: 10px;
     background-color: #E5E7EB;
     max-height: 33%;
     padding: 100px;
+    flex-shrink: 0;
 }
 
 .quote {
@@ -152,9 +153,11 @@ margin-bottom: 10px;
     font-style: italic;
     color: #1F2937;
     max-width: 90%;
+    margin-bottom: 20px;
 }
 
 .source {
-    margin-left: 18em;
-    
+    margin-left: 29em;
+    font-weight: 600;
+    margin-top: 10px;
 }
