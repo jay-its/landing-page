@@ -215,3 +215,15 @@ color: #E5E7EB;
     border-radius: 5px;
     max-width: fit-content;
 }
+
+/* Footer Section */
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+}
