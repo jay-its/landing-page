@@ -5,8 +5,8 @@
     font: inherit;
 }
 body {
-   display: flex;
-   flex-direction: column;
+     display: flex;
+     flex-direction: column;
     /* height: 100vh; */
     /* width: 100vw; */
 }
@@ -52,7 +52,7 @@ a {
     background-color: #1F2937;
     padding: 60px;
     gap: 15px;
-    max-height: 33%;
+    max-height: 25%;
 }
 
 .left-side { 
@@ -93,7 +93,7 @@ margin-bottom: 10px;
 
 .info-container {
    padding: 25px;
-   max-height: fit-content;
+   max-height: 25%;
 }
 
 .heading-two {
@@ -144,7 +144,7 @@ margin-bottom: 10px;
     flex-wrap: wrap;
     justify-content: center;
     background-color: #E5E7EB;
-    max-height: 33%;
+    max-height: 25%;
     padding: 100px;
     flex-shrink: 0;
 }
