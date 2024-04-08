@@ -17,20 +17,12 @@ body {
     justify-content: space-between;
     background-color: #1F2937;
 }
-.logo {
-max-width: 50px;
-max-height: 50px;
-padding-left: 16px;
-}
+
 .title {
     color: #F9FAF8;   
     font-size: 24px;
 }
-.top-left {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-}
+
 ul {
     display: flex;
     gap: 16px;
