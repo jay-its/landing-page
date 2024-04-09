@@ -151,16 +151,18 @@ margin-bottom: 10px;
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
-    /* max-width: 90%; */
+    /* width: 250px; */
     /* margin-bottom: 20px; */
 }
 
 .source {
     display: flex;
-    flex-shrink: 0;
-    margin-left: 29em;
+    /* flex-shrink: 0; */
+    /* margin-left: 29em; */
     font-weight: 600;
     margin-top: 10px;
+    /* justify-content: flex-end; */
+    align-items: flex-end;
 }
 
 /* Call to Action Section */
