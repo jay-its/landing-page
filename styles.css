@@ -47,7 +47,7 @@ a {
     padding: 60px;
     gap: 15px;
     /* max-height: 33%; */
-    border: red solid 2px;
+   
 }
 
 .left-side { 
@@ -89,7 +89,7 @@ margin-bottom: 10px;
 .info-container {
    padding: 25px;
    /* max-height: 35%; */
-   border: solid 2px orange;
+   
 }
 
 .heading-two {
@@ -143,8 +143,7 @@ margin-bottom: 10px;
     background-color: #E5E7EB;
     /* max-height: 25%; */
     padding: 100px;
-    border: green solid 2px;
-}
+   
 
 .quote {
     font-size: 36px;
